@@ -38,6 +38,7 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
 - [ ] [Formatting column](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
 - [ ] [UI](./SPFx/ui.md)
 - [ ] [Project Scaffolding](./SPFx/scaffolding.md)
+      
   * - [ ] [APIs](./APIs)
 - [ ] [Patterns and Practices (PnP)](./APIs/pnp.md)
 - [ ] [SharePoint REST service](https://docs.microsoft.com/en-us/sharepoint/dev/apis/rest/get-to-know-the-sharepoint-rest-service)
