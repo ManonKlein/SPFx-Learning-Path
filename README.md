@@ -25,7 +25,7 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
   7. Enjoy it!
 
 ## Table of contents
-  * [JavaScript](./JavaScript) [X]
+  * [JavaScript](./JavaScript) - [x]
     * [EcmaScript](./JavaScript/ecmascript.md) [X]
     * [TypeScript](./JavaScript/typescript.md) [X]
     * [React](./JavaScript/react.md) [X]
