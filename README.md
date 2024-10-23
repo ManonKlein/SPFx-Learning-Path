@@ -25,22 +25,22 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
   7. Enjoy it!
 
 ## Table of contents
-  * [JavaScript](./JavaScript)
-    * [EcmaScript](./JavaScript/ecmascript.md)
-    * [TypeScript](./JavaScript/typescript.md)
-    * [React](./JavaScript/react.md)
-  * [SharePoint Framework (SPFx)](./SPFx)
-    * [Set up a development environment](./SPFx/development-environment.md)
-    * [Team based development workflow](./SPFx/team-based-development-workflow.md)
-    * [Web parts](./SPFx/webparts.md)
-    * [Extensions](./SPFx/extensions.md)
-    * [Formatting column](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
-    * [UI](./SPFx/ui.md)
-    * [Project Scaffolding](./SPFx/scaffolding.md)
-  * [APIs](./APIs)
-    * [Patterns and Practices (PnP)](./APIs/pnp.md)
-    * [SharePoint REST service](https://docs.microsoft.com/en-us/sharepoint/dev/apis/rest/get-to-know-the-sharepoint-rest-service)
-    * [SharePoint Webhooks](https://docs.microsoft.com/en-us/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks)
+  * [JavaScript](./JavaScript) [X]
+    * [EcmaScript](./JavaScript/ecmascript.md) [X]
+    * [TypeScript](./JavaScript/typescript.md) [X]
+    * [React](./JavaScript/react.md) [X]
+  * [SharePoint Framework (SPFx)](./SPFx) [ ]
+    * [Set up a development environment](./SPFx/development-environment.md) [X]
+    * [Team based development workflow](./SPFx/team-based-development-workflow.md) [ ] In Progress
+    * [Web parts](./SPFx/webparts.md) [ ]
+    * [Extensions](./SPFx/extensions.md) [ ]
+    * [Formatting column](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting) [ ]
+    * [UI](./SPFx/ui.md) [ ]
+    * [Project Scaffolding](./SPFx/scaffolding.md) [ ]
+  * [APIs](./APIs) [ ]
+    * [Patterns and Practices (PnP)](./APIs/pnp.md) [ ]
+    * [SharePoint REST service](https://docs.microsoft.com/en-us/sharepoint/dev/apis/rest/get-to-know-the-sharepoint-rest-service) [ ]
+    * [SharePoint Webhooks](https://docs.microsoft.com/en-us/sharepoint/dev/apis/webhooks/overview-sharepoint-webhooks) [ ]
 
 ## FAQ
   * [How to update SPFx packages to latest version?](https://github.com/SharePoint/sp-dev-docs/blob/master/docs/spfx/update-latest-packages.md)
