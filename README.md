@@ -26,9 +26,10 @@ First we start with JavaScript from basic to complex concepts including EcmaScri
 
 ## Table of contents
   *   - [ ] [JavaScript](./JavaScript)
-    - [ ] [EcmaScript](./JavaScript/ecmascript.md)
-    - [ ] [TypeScript](./JavaScript/typescript.md)
-    - [ ] [React](./JavaScript/react.md)
+- [ ] [EcmaScript](./JavaScript/ecmascript.md)
+- [ ] [TypeScript](./JavaScript/typescript.md)
+- [ ] [React](./JavaScript/react.md)
+      
   *   - [ ] [SharePoint Framework (SPFx)](./SPFx)
     * [Set up a development environment](./SPFx/development-environment.md) [X]
     * [Team based development workflow](./SPFx/team-based-development-workflow.md) [ ] In Progress
